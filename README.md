@@ -5,3 +5,11 @@
 This project contains the main features of the pancake application.
 
 If you want to contribute, please refer to the [contributing guidelines](./CONTRIBUTING.md) of this project.
+
+## Insatalatiton
+
+git clone https://github.com/jerodriguez6/newswap.git
+
+yarn install
+
+yarn run start
